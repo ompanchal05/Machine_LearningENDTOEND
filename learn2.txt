@@ -1,0 +1,353 @@
+learn_2.txt
+INTERVIEW PREPARATION — DATA ANALYST → DATA SCIENTIST → ML ENGINEER
+=================================================================
+
+PURPOSE
+-------
+This document is created for:
+- Interview preparation
+- Quick revision
+- Confidence building
+- Step-by-step growth from Data Analyst to ML Engineer
+
+Language: Simple English
+Focus: Concepts + Practical understanding
+
+=================================================
+SECTION 1: DATA ANALYST INTERVIEW QUESTIONS
+=================================================
+
+Q1. What is a Data Analyst?
+A:
+A Data Analyst collects, cleans, analyzes data and creates reports or dashboards to help businesses make decisions.
+
+-------------------------------------------------
+
+Q2. What tools does a Data Analyst use?
+A:
+Common tools are:
+- Excel
+- SQL
+- Power BI / Tableau
+- Python (basic)
+- Statistics
+
+-------------------------------------------------
+
+Q3. What is the difference between Data Analyst and Data Scientist?
+A:
+Data Analyst focuses on past data and reporting.
+Data Scientist focuses on prediction and future insights using ML.
+
+-------------------------------------------------
+
+Q4. What is SQL used for?
+A:
+SQL is used to:
+- Fetch data
+- Filter data
+- Join tables
+- Aggregate data (SUM, AVG, COUNT)
+
+-------------------------------------------------
+
+Q5. What is a KPI?
+A:
+KPI (Key Performance Indicator) is a measurable value used to track business performance.
+
+Example:
+- Monthly sales
+- Customer churn rate
+
+-------------------------------------------------
+
+Q6. What is data cleaning?
+A:
+Data cleaning means:
+- Removing duplicates
+- Handling missing values
+- Fixing wrong data
+- Standardizing formats
+
+-------------------------------------------------
+
+Q7. What is exploratory data analysis (EDA)?
+A:
+EDA is the process of understanding data using:
+- Summary statistics
+- Graphs
+- Patterns
+- Outliers
+
+-------------------------------------------------
+
+Q8. What charts are commonly used?
+A:
+- Bar chart → comparison
+- Line chart → trend
+- Pie chart → proportion
+- Histogram → distribution
+
+=================================================
+SECTION 2: DATA SCIENTIST INTERVIEW QUESTIONS
+=================================================
+
+Q9. What is a Data Scientist?
+A:
+A Data Scientist uses statistics, programming, and machine learning to build predictive models and solve complex problems.
+
+-------------------------------------------------
+
+Q10. What is Machine Learning?
+A:
+Machine Learning is a technique where machines learn patterns from data and make predictions without being explicitly programmed.
+
+-------------------------------------------------
+
+Q11. Types of Machine Learning?
+A:
+1. Supervised Learning
+2. Unsupervised Learning
+3. Semi-supervised Learning
+4. Reinforcement Learning
+
+-------------------------------------------------
+
+Q12. What is Supervised Learning?
+A:
+Learning from labeled data (X and y).
+
+Examples:
+- Linear Regression
+- Logistic Regression
+- KNN
+- SVM
+
+-------------------------------------------------
+
+Q13. What is Unsupervised Learning?
+A:
+Learning from unlabeled data.
+
+Examples:
+- KMeans clustering
+- PCA
+
+-------------------------------------------------
+
+Q14. What is train-test split?
+A:
+It splits data into:
+- Training data (to learn)
+- Testing data (to evaluate)
+
+Purpose:
+- Avoid overfitting
+- Test on unseen data
+
+-------------------------------------------------
+
+Q15. Why X is capital and y is small?
+A:
+X represents a feature matrix (many columns).
+y represents a target vector (one column).
+This is a mathematical convention.
+
+-------------------------------------------------
+
+Q16. What is overfitting?
+A:
+When a model memorizes training data and performs poorly on new data.
+
+-------------------------------------------------
+
+Q17. What is underfitting?
+A:
+When a model is too simple and fails to learn patterns.
+
+-------------------------------------------------
+
+Q18. What is bias vs variance?
+A:
+- High bias → underfitting
+- High variance → overfitting
+Goal is to balance both.
+
+-------------------------------------------------
+
+Q19. What is feature scaling?
+A:
+Scaling brings all features to the same range.
+It is important for distance-based and gradient-based models.
+
+-------------------------------------------------
+
+Q20. Models that require scaling?
+A:
+- Logistic Regression
+- KNN
+- SVM
+- Gradient Descent
+
+(Tree models do not need scaling)
+
+-------------------------------------------------
+
+Q21. What is Gradient Descent?
+A:
+An optimization algorithm that minimizes loss by updating weights step by step.
+
+-------------------------------------------------
+
+Q22. What is a loss function?
+A:
+A function that measures how wrong the model is.
+
+Examples:
+- MSE → regression
+- Log loss → classification
+
+=================================================
+SECTION 3: MACHINE LEARNING ENGINEER INTERVIEW
+=================================================
+
+Q23. What is the role of an ML Engineer?
+A:
+An ML Engineer builds, optimizes, deploys, and maintains machine learning models in production.
+
+-------------------------------------------------
+
+Q24. Difference between Data Scientist and ML Engineer?
+A:
+Data Scientist focuses on modeling and analysis.
+ML Engineer focuses on deployment, pipelines, and scalability.
+
+-------------------------------------------------
+
+Q25. What is a pipeline?
+A:
+A pipeline combines preprocessing and model training into one flow to avoid data leakage.
+
+-------------------------------------------------
+
+Q26. What is data leakage?
+A:
+When test data information leaks into training, causing unrealistically high performance.
+
+-------------------------------------------------
+
+Q27. What is cross-validation?
+A:
+A technique where data is split into multiple folds to get stable performance.
+
+-------------------------------------------------
+
+Q28. What is KNN?
+A:
+KNN predicts based on the closest K neighbors.
+
+-------------------------------------------------
+
+Q29. What is the role of K?
+A:
+- Small K → overfitting
+- Large K → underfitting
+
+-------------------------------------------------
+
+Q30. What is SVM?
+A:
+SVM finds the best decision boundary with maximum margin between classes.
+
+-------------------------------------------------
+
+Q31. What is a kernel in SVM?
+A:
+A kernel transforms data into higher dimensions to handle non-linear data.
+
+-------------------------------------------------
+
+Q32. What is a Decision Tree?
+A:
+A tree-based model that makes decisions using rules.
+
+-------------------------------------------------
+
+Q33. Why do trees overfit?
+A:
+Because deep trees memorize training data.
+
+-------------------------------------------------
+
+Q34. What is Random Forest?
+A:
+An ensemble of multiple decision trees that reduces overfitting.
+
+-------------------------------------------------
+
+Q35. What is Boosting?
+A:
+Boosting trains models sequentially, where each model learns from previous mistakes.
+
+-------------------------------------------------
+
+Q36. Difference between Random Forest and Boosting?
+A:
+Random Forest reduces variance.
+Boosting reduces bias.
+
+-------------------------------------------------
+
+Q37. What is XGBoost?
+A:
+An optimized boosting algorithm with regularization and high performance.
+
+-------------------------------------------------
+
+Q38. What is model deployment?
+A:
+Making a trained model available for real-world use (API, app, etc.).
+
+-------------------------------------------------
+
+Q39. What is a .pkl file?
+A:
+A serialized file used to save trained models in Python.
+
+-------------------------------------------------
+
+Q40. What metrics do you use?
+A:
+Regression:
+- MSE, RMSE, R²
+
+Classification:
+- Accuracy, Precision, Recall
+
+-------------------------------------------------
+
+Q41. What is MLOps (basic)?
+A:
+MLOps is the practice of managing ML models in production (training, versioning, monitoring).
+
+-------------------------------------------------
+
+Q42. How do you explain your ML project?
+A:
+"I built an end-to-end ML pipeline including preprocessing, model training, tuning, evaluation, and model saving for deployment."
+
+=================================================
+FINAL REVISION (ONE-LINERS)
+=================================================
+
+- Train-test split → unseen data testing
+- Scaling → distance & gradient sensitive models
+- Gradient Descent → loss minimization
+- Overfitting → memorization
+- Underfitting → oversimplification
+- Pipelines → prevent data leakage
+- Boosting → learning from mistakes
+
+=================================================
+END OF learn_2.txt
+=================================================
