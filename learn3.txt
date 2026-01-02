@@ -1,0 +1,314 @@
+learn_3.txt
+SQL + STATISTICS — EASY INTERVIEW PREPARATION
+=============================================
+
+PURPOSE
+-------
+This file is created for:
+- Beginners
+- Easy understanding
+- Interview preparation
+- Data Analyst → Data Scientist → ML Engineer
+
+Language: Very simple English  
+Focus: Basics + confidence
+
+=================================================
+SECTION 1: SQL (STRUCTURED QUERY LANGUAGE)
+=================================================
+
+Q1. What is SQL?
+A:
+SQL is a language used to work with databases.
+It is used to:
+- Store data
+- Read data
+- Update data
+- Delete data
+
+-------------------------------------------------
+
+Q2. Where is SQL used?
+A:
+SQL is used in:
+- Companies databases
+- Banking systems
+- Websites
+- Apps
+- Data analysis
+
+-------------------------------------------------
+
+Q3. What is a database?
+A:
+A database is a place where data is stored in an organized way.
+
+Example:
+- Student database
+- Employee database
+
+-------------------------------------------------
+
+Q4. What is a table?
+A:
+A table stores data in rows and columns.
+
+Example:
+| ID | Name | Salary |
+|----|------|--------|
+
+-------------------------------------------------
+
+Q5. What is a row?
+A:
+A row is one complete record.
+
+Example:
+1 | Rahul | 50000
+
+-------------------------------------------------
+
+Q6. What is a column?
+A:
+A column is one type of data.
+
+Example:
+Salary column stores salary values.
+
+-------------------------------------------------
+
+Q7. What is SELECT?
+A:
+SELECT is used to get data from a table.
+
+Example:
+SELECT * FROM employees;
+
+-------------------------------------------------
+
+Q8. What is WHERE?
+A:
+WHERE is used to filter data.
+
+Example:
+Get employees with salary > 50000
+
+-------------------------------------------------
+
+Q9. What is ORDER BY?
+A:
+ORDER BY is used to sort data.
+
+Example:
+ORDER BY salary DESC
+
+-------------------------------------------------
+
+Q10. What is GROUP BY?
+A:
+GROUP BY is used to group similar data.
+
+Example:
+Total salary by department.
+
+-------------------------------------------------
+
+Q11. What are aggregate functions?
+A:
+Functions that work on many rows.
+
+Examples:
+- COUNT
+- SUM
+- AVG
+- MIN
+- MAX
+
+-------------------------------------------------
+
+Q12. What is JOIN?
+A:
+JOIN is used to combine data from multiple tables.
+
+Types:
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+
+-------------------------------------------------
+
+Q13. What is INNER JOIN?
+A:
+Returns matching records from both tables.
+
+-------------------------------------------------
+
+Q14. What is LEFT JOIN?
+A:
+Returns all records from left table and matching from right.
+
+-------------------------------------------------
+
+Q15. What is primary key?
+A:
+A primary key uniquely identifies each row.
+
+Example:
+Employee ID
+
+-------------------------------------------------
+
+Q16. What is foreign key?
+A:
+A foreign key connects two tables.
+
+-------------------------------------------------
+
+Q17. What is NULL?
+A:
+NULL means no value or missing value.
+
+-------------------------------------------------
+
+Q18. Difference between DELETE and TRUNCATE?
+A:
+DELETE removes selected rows.
+TRUNCATE removes all rows.
+
+=================================================
+SECTION 2: STATISTICS (VERY EASY)
+=================================================
+
+Q19. What is statistics?
+A:
+Statistics is the study of data to understand patterns and make decisions.
+
+-------------------------------------------------
+
+Q20. Types of statistics?
+A:
+1. Descriptive statistics
+2. Inferential statistics
+
+-------------------------------------------------
+
+Q21. What is descriptive statistics?
+A:
+Describes data.
+
+Examples:
+- Mean
+- Median
+- Mode
+
+-------------------------------------------------
+
+Q22. What is mean?
+A:
+Mean is the average value.
+
+Example:
+(10 + 20 + 30) / 3 = 20
+
+-------------------------------------------------
+
+Q23. What is median?
+A:
+Median is the middle value.
+
+Example:
+10, 20, 30 → Median = 20
+
+-------------------------------------------------
+
+Q24. What is mode?
+A:
+Mode is the most repeated value.
+
+Example:
+2, 3, 3, 5 → Mode = 3
+
+-------------------------------------------------
+
+Q25. What is variance?
+A:
+Variance tells how spread out the data is.
+
+-------------------------------------------------
+
+Q26. What is standard deviation?
+A:
+Standard deviation is the square root of variance.
+It shows how much data varies from the mean.
+
+-------------------------------------------------
+
+Q27. What is probability?
+A:
+Probability tells the chance of an event happening.
+
+Range:
+0 to 1
+
+-------------------------------------------------
+
+Q28. What is normal distribution?
+A:
+A bell-shaped curve where most values are near the mean.
+
+-------------------------------------------------
+
+Q29. What is correlation?
+A:
+Correlation shows the relationship between two variables.
+
+Types:
+- Positive
+- Negative
+- No correlation
+
+-------------------------------------------------
+
+Q30. What is hypothesis testing?
+A:
+A method to test assumptions using data.
+
+-------------------------------------------------
+
+Q31. What is p-value?
+A:
+p-value tells whether the result is statistically significant.
+
+Small p-value → strong evidence
+
+-------------------------------------------------
+
+Q32. What is outlier?
+A:
+An outlier is a value that is very different from others.
+
+-------------------------------------------------
+
+Q33. Why statistics is important in ML?
+A:
+Statistics helps to:
+- Understand data
+- Choose models
+- Evaluate performance
+
+=================================================
+FINAL EASY REVISION
+=================================================
+
+- SQL → Get data
+- Statistics → Understand data
+- Mean → Average
+- Median → Middle
+- Mode → Most frequent
+- Variance → Spread
+- Probability → Chance
+- Correlation → Relationship
+
+=================================================
+END OF learn_3.txt
+=================================================
