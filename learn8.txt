@@ -1,0 +1,169 @@
+# 📘 learn_8.md
+## 365-Day Machine Learning Daily Study Plan (30–60 min/day)
+
+---
+
+## 🎯 Purpose
+
+This plan helps you:
+- Build ML skills **slowly and deeply**
+- Avoid burnout
+- Grow from **Data Analyst → Data Scientist → ML Engineer**
+- Stay consistent with college / job life
+
+**Daily time**
+- Minimum: 30 minutes  
+- Ideal: 45–60 minutes  
+
+> Rule: **Consistency > Speed**
+
+---
+
+## 🧭 How to Use This Plan
+
+**Daily structure (recommended):**
+- 10 min → Read / revise notes  
+- 15–20 min → Learn a new concept  
+- 15–20 min → Code / practice  
+- Optional → Explain aloud (2 min)
+
+---
+
+## 🟢 Phase 1: Data Analyst Foundation (Day 1–90)
+
+### Day 1–15: Python Basics
+- Variables, conditions, loops  
+- Functions  
+- Lists, tuples, dictionaries  
+- Daily small practice
+
+### Day 16–30: NumPy
+- Arrays, shapes  
+- Indexing & slicing  
+- Vectorized operations
+
+### Day 31–45: Pandas
+- DataFrames  
+- Reading CSV  
+- Filtering & GroupBy  
+- Missing values
+
+### Day 46–60: Data Visualization
+- Matplotlib basics  
+- Line, bar, histogram  
+- Simple EDA plots
+
+### Day 61–75: SQL
+- SELECT, WHERE  
+- GROUP BY  
+- JOINs  
+- Practice queries daily
+
+### Day 76–90: Statistics Basics
+- Mean, median, mode  
+- Variance, standard deviation  
+- Probability basics  
+- Distributions
+
+---
+
+## 🔵 Phase 2: Data Scientist — Core ML (Day 91–210)
+
+### Day 91–105: ML Foundations
+- What is ML  
+- Types of ML  
+- Train–test split  
+- Bias vs variance
+
+### Day 106–125: Regression
+- Linear Regression  
+- Loss functions (MSE)  
+- Gradient Descent  
+- Ridge & Lasso
+
+### Day 126–145: Classification
+- Logistic Regression  
+- KNN  
+- Metrics: accuracy, precision, recall
+
+### Day 146–160: SVM
+- Margin & hyperplane  
+- Kernel trick  
+- Importance of scaling
+
+### Day 161–180: Tree Models
+- Decision Trees  
+- Random Forest  
+- Feature importance
+
+### Day 181–210: Boosting
+- AdaBoost  
+- Gradient Boosting  
+- XGBoost (concept + basic code)
+
+---
+
+## 🟣 Phase 3: ML Engineering (Day 211–300)
+
+### Day 211–230: Model Improvement
+- Cross-validation  
+- Hyperparameter tuning  
+- Overfitting control
+
+### Day 231–250: Pipelines
+- Preprocessing + model  
+- Avoid data leakage  
+- Clean, reusable ML code
+
+### Day 251–270: Deployment Basics
+- Save model (`.pkl`)  
+- Load model  
+- Simple API / Streamlit app
+
+### Day 271–300: System Thinking
+- Data pipelines  
+- Model monitoring  
+- Retraining strategies  
+- Drift concepts
+
+---
+
+## 🔴 Phase 4: Projects & Interview Prep (Day 301–365)
+
+### Day 301–330: Project Building
+- One regression project  
+- One classification project  
+- Clean notebooks  
+- Add README
+
+### Day 331–350: Interview Preparation
+- Revise notes  
+- Explain projects aloud  
+- Practice Q&A
+
+### Day 351–365: Final Polish
+- GitHub cleanup  
+- Resume points  
+- Mock interviews  
+- Confidence building
+
+---
+
+## ✅ Daily Rules (Very Important)
+
+- Code **something** every day  
+- Revise weekly  
+- Don’t skip basics  
+- Explain concepts in simple words  
+- Build **small but complete** projects
+
+---
+
+## 🏁 Final Message
+
+You don’t need to rush.  
+You **do** need consistency.
+
+**365 days of steady effort = strong ML foundation = internship & job ready.**
+
+---
