@@ -1,4 +1,4 @@
-learn_6.txt
+learn_7.txt
 STATISTICS FOR MACHINE LEARNING (DEEP + EASY)
 =============================================
 
