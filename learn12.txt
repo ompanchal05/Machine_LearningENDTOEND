@@ -1,0 +1,263 @@
+learn_12.txt
+MLOps BASICS — MACHINE LEARNING IN REAL WORLD
+=============================================
+
+PURPOSE
+-------
+This document is created for:
+- Beginners in MLOps
+- ML Engineer interviews
+- Understanding how ML works in production
+- 365-day long-term learning
+
+Language: Very easy English  
+Focus: Practical understanding  
+Key idea: Training model is easy, running model daily is hard
+
+=================================================
+SECTION 1: WHAT IS MLOps?
+=================================================
+
+Q1. What is MLOps?
+A:
+MLOps means Machine Learning Operations.
+
+It is the practice of:
+- Managing ML models
+- Deploying models
+- Monitoring models
+- Updating models
+
+In short:
+MLOps = ML + DevOps
+
+-------------------------------------------------
+
+Q2. Why MLOps is important?
+A:
+Because in real life:
+- Data changes
+- Models become outdated
+- Systems must run 24/7
+
+Without MLOps, ML fails in production.
+
+=================================================
+SECTION 2: ML LIFE CYCLE
+=================================================
+
+Q3. What is ML life cycle?
+A:
+1. Data collection
+2. Data preprocessing
+3. Model training
+4. Model evaluation
+5. Model deployment
+6. Monitoring
+7. Retraining
+
+This cycle repeats.
+
+-------------------------------------------------
+
+Q4. Why ML life cycle is different from software life cycle?
+A:
+Because ML depends on data, and data changes over time.
+
+=================================================
+SECTION 3: MODEL VERSIONING
+=================================================
+
+Q5. What is model versioning?
+A:
+Saving different versions of a model.
+
+Example:
+- model_v1.pkl
+- model_v2.pkl
+
+-------------------------------------------------
+
+Q6. Why model versioning is needed?
+A:
+- To rollback if new model fails
+- To track improvements
+
+=================================================
+SECTION 4: DATA VERSIONING
+=================================================
+
+Q7. What is data versioning?
+A:
+Tracking changes in data used for training.
+
+-------------------------------------------------
+
+Q8. Why data versioning is important?
+A:
+Same code + different data = different model.
+
+=================================================
+SECTION 5: PIPELINES IN MLOps
+=================================================
+
+Q9. What is an ML pipeline?
+A:
+An automated sequence of steps:
+Data → Preprocessing → Training → Evaluation → Deployment
+
+-------------------------------------------------
+
+Q10. Why automation is important?
+A:
+Manual ML does not scale.
+
+=================================================
+SECTION 6: MODEL DEPLOYMENT
+=================================================
+
+Q11. What is model deployment?
+A:
+Making model available for predictions.
+
+-------------------------------------------------
+
+Q12. Common deployment methods?
+A:
+- REST API
+- Batch jobs
+- Web apps
+
+-------------------------------------------------
+
+Q13. What is latency?
+A:
+Time taken to return prediction.
+
+Low latency is important for real-time systems.
+
+=================================================
+SECTION 7: MODEL MONITORING
+=================================================
+
+Q14. What is model monitoring?
+A:
+Tracking model performance after deployment.
+
+-------------------------------------------------
+
+Q15. What should be monitored?
+A:
+- Prediction accuracy
+- Input data distribution
+- Latency
+- Errors
+
+-------------------------------------------------
+
+Q16. What is data drift?
+A:
+When input data pattern changes over time.
+
+-------------------------------------------------
+
+Q17. What is concept drift?
+A:
+When relationship between input and output changes.
+
+=================================================
+SECTION 8: RETRAINING STRATEGY
+=================================================
+
+Q18. Why retraining is required?
+A:
+Because model performance degrades over time.
+
+-------------------------------------------------
+
+Q19. When to retrain a model?
+A:
+- On schedule (monthly, quarterly)
+- When performance drops
+- When new data is available
+
+=================================================
+SECTION 9: CI/CD FOR ML (BASIC IDEA)
+=================================================
+
+Q20. What is CI/CD?
+A:
+CI/CD means Continuous Integration / Continuous Deployment.
+
+-------------------------------------------------
+
+Q21. CI/CD in ML means?
+A:
+- Automatically training models
+- Automatically testing models
+- Automatically deploying models
+
+=================================================
+SECTION 10: CLOUD & TOOLS (BASIC)
+=================================================
+
+Q22. Where ML models are deployed?
+A:
+- Cloud servers
+- On-premise servers
+
+-------------------------------------------------
+
+Q23. Common MLOps tools (just names)?
+A:
+- Git
+- Docker
+- MLflow
+- Airflow
+- Kubernetes (advanced)
+
+(No need to master all at once)
+
+=================================================
+SECTION 11: MLOps INTERVIEW QUESTIONS
+=================================================
+
+Q24. Why ML models fail in production?
+A:
+- Data drift
+- Poor monitoring
+- No retraining
+- Data quality issues
+
+-------------------------------------------------
+
+Q25. How do you explain MLOps in one line?
+A:
+"MLOps ensures machine learning models work reliably in production."
+
+=================================================
+SECTION 12: BEGINNER MLOps MINDSET
+=================================================
+
+RULES:
+- Start simple
+- Automate gradually
+- Monitor always
+- Expect data changes
+
+REMEMBER:
+Good ML + bad MLOps = failure
+
+=================================================
+FINAL REVISION (ONE-LINERS)
+=================================================
+
+- MLOps keeps ML alive
+- Monitoring is mandatory
+- Data changes always
+- Retraining is normal
+- Automation saves time
+
+=================================================
+END OF learn_12.txt
+=================================================
