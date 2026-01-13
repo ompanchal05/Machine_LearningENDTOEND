@@ -1,0 +1,381 @@
+learn_14.txt
+ML SYSTEM DESIGN CASE STUDIES (FAANG-STYLE, EASY)
+================================================
+
+PURPOSE
+-------
+This document is created for:
+- ML System Design interviews
+- Explaining large-scale ML systems
+- ML Engineer & Senior Data Scientist roles
+- 365-day long-term mastery
+
+Language: Simple English
+Focus: Step-by-step thinking
+Rule: Always clarify problem before designing solution
+
+=================================================
+HOW TO ANSWER ANY ML SYSTEM DESIGN QUESTION
+=================================================
+
+GENERAL STRUCTURE:
+------------------
+1. Clarify business problem
+2. Define inputs & outputs
+3. Define success metrics
+4. Design data pipeline
+5. Feature engineering
+6. Model choice
+7. Training pipeline
+8. Deployment
+9. Monitoring & retraining
+10. Trade-offs
+
+Always speak in this order.
+
+=================================================
+CASE STUDY 1: CUSTOMER CHURN PREDICTION SYSTEM
+=================================================
+
+Problem:
+--------
+Predict whether a customer will leave the service.
+
+Business Goal:
+--------------
+Reduce customer churn by early intervention.
+
+-------------------------------------------------
+
+Inputs:
+-------
+- User activity
+- Subscription history
+- Usage frequency
+- Support tickets
+
+Output:
+-------
+- Churn probability (0 to 1)
+
+-------------------------------------------------
+
+Data Pipeline:
+--------------
+- Collect data from databases and logs
+- Clean missing and incorrect values
+- Aggregate user-level features
+
+-------------------------------------------------
+
+Feature Engineering:
+--------------------
+- Tenure (days since signup)
+- Average usage per week
+- Payment delay count
+- Complaint frequency
+
+-------------------------------------------------
+
+Model Choice:
+-------------
+- Start with Logistic Regression (baseline)
+- Try Random Forest / XGBoost for non-linearity
+
+-------------------------------------------------
+
+Training:
+---------
+- Train weekly using latest data
+- Use cross-validation
+
+-------------------------------------------------
+
+Deployment:
+-----------
+- REST API for real-time prediction
+- Batch prediction for daily reports
+
+-------------------------------------------------
+
+Monitoring:
+-----------
+- Track prediction distribution
+- Track recall on churners
+- Monitor data drift
+
+-------------------------------------------------
+
+Retraining:
+-----------
+- Retrain monthly
+- Retrain immediately if performance drops
+
+-------------------------------------------------
+
+Trade-offs:
+-----------
+- Accuracy vs interpretability
+- Latency vs complexity
+
+-------------------------------------------------
+
+One-Line Interview Answer:
+--------------------------
+"I designed a churn prediction system with data pipelines, feature engineering, model training, deployment, and continuous monitoring."
+
+=================================================
+CASE STUDY 2: FRAUD DETECTION SYSTEM
+=================================================
+
+Problem:
+--------
+Detect fraudulent transactions in real time.
+
+Business Goal:
+--------------
+Prevent financial loss.
+
+-------------------------------------------------
+
+Key Challenges:
+---------------
+- Highly imbalanced data
+- Low latency requirement
+
+-------------------------------------------------
+
+Inputs:
+-------
+- Transaction amount
+- Location
+- Device info
+- User history
+
+Output:
+-------
+- Fraud score
+
+-------------------------------------------------
+
+Model Choice:
+-------------
+- Logistic Regression (fast baseline)
+- Gradient Boosting for better accuracy
+
+-------------------------------------------------
+
+Evaluation Metrics:
+-------------------
+- Recall (most important)
+- Precision
+- False negatives
+
+-------------------------------------------------
+
+Deployment:
+-----------
+- Real-time API (<100ms latency)
+
+-------------------------------------------------
+
+Monitoring:
+-----------
+- Monitor false negatives
+- Alert system for spikes
+
+-------------------------------------------------
+
+Trade-offs:
+-----------
+- Speed vs accuracy
+- False positives vs false negatives
+
+-------------------------------------------------
+
+One-Line Interview Answer:
+--------------------------
+"I built a fraud detection system optimized for recall and low latency using a layered ML approach."
+
+=================================================
+CASE STUDY 3: RECOMMENDATION SYSTEM
+=================================================
+
+Problem:
+--------
+Recommend products/content to users.
+
+Business Goal:
+--------------
+Increase engagement and revenue.
+
+-------------------------------------------------
+
+Types:
+------
+- Content-based filtering
+- Collaborative filtering
+
+-------------------------------------------------
+
+Inputs:
+-------
+- User behavior
+- Item attributes
+- Historical interactions
+
+-------------------------------------------------
+
+Model Choice:
+-------------
+- Start with popularity-based baseline
+- Move to collaborative filtering
+- Use deep learning for scale
+
+-------------------------------------------------
+
+Evaluation:
+-----------
+- CTR
+- Watch time
+- Conversion rate
+
+-------------------------------------------------
+
+Deployment:
+-----------
+- Batch recommendations
+- Cache popular results
+
+-------------------------------------------------
+
+Monitoring:
+-----------
+- Online A/B testing
+- Engagement metrics
+
+-------------------------------------------------
+
+One-Line Interview Answer:
+--------------------------
+"I designed a recommendation system using user-item interactions and evaluated it using online A/B testing."
+
+=================================================
+CASE STUDY 4: SEARCH RANKING SYSTEM
+=================================================
+
+Problem:
+--------
+Rank search results by relevance.
+
+-------------------------------------------------
+
+Inputs:
+-------
+- Query
+- Document features
+- User signals
+
+-------------------------------------------------
+
+Model Choice:
+-------------
+- Learning-to-rank models
+- Gradient Boosting / Neural Networks
+
+-------------------------------------------------
+
+Metrics:
+--------
+- NDCG
+- Click-through rate
+
+-------------------------------------------------
+
+Deployment:
+-----------
+- Real-time ranking API
+
+-------------------------------------------------
+
+One-Line Interview Answer:
+--------------------------
+"I worked on a ranking system that optimized relevance using learning-to-rank models."
+
+=================================================
+CASE STUDY 5: IMAGE CLASSIFICATION SYSTEM
+=================================================
+
+Problem:
+--------
+Classify images into categories.
+
+-------------------------------------------------
+
+Model:
+------
+- CNN
+
+-------------------------------------------------
+
+Pipeline:
+---------
+- Image preprocessing
+- Training on GPU
+- Model versioning
+
+-------------------------------------------------
+
+Monitoring:
+-----------
+- Accuracy drift
+- Input image changes
+
+-------------------------------------------------
+
+One-Line Interview Answer:
+--------------------------
+"I built an image classification pipeline using CNNs with monitoring and retraining strategies."
+
+=================================================
+COMMON SYSTEM DESIGN QUESTIONS (INTERVIEW)
+=================================================
+
+Q1. How do you handle data drift?
+A:
+Monitor distributions and retrain models.
+
+-------------------------------------------------
+
+Q2. How do you scale ML systems?
+A:
+Use batch processing, caching, and distributed systems.
+
+-------------------------------------------------
+
+Q3. How do you ensure reliability?
+A:
+Fallback models, monitoring, alerts.
+
+=================================================
+FINAL SYSTEM DESIGN MINDSET
+=================================================
+
+- System > Model
+- Monitoring is mandatory
+- Expect data to change
+- Trade-offs always exist
+
+=================================================
+FINAL REVISION (ONE-LINERS)
+=================================================
+
+- Clarify problem first
+- Design full pipeline
+- Choose simple baseline
+- Monitor continuously
+- Retrain regularly
+
+=================================================
+END OF learn_14.txt
+=================================================
