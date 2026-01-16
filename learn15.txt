@@ -1,0 +1,221 @@
+learn_15.txt
+SQL + MACHINE LEARNING COMBINED INTERVIEW PREP
+==============================================
+
+PURPOSE
+-------
+This document is created for:
+- Data Analyst interviews
+- Data Scientist interviews
+- ML Engineer interviews
+- End-to-end interview preparation
+
+Language: Very easy English  
+Focus: Practical + real interview style  
+Key idea: SQL gets data, ML uses data
+
+=================================================
+SECTION 1: WHY SQL IS IMPORTANT FOR ML
+=================================================
+
+Q1. Why SQL is important for ML roles?
+A:
+Because ML models need data.
+SQL is used to:
+- Extract data
+- Filter data
+- Aggregate data
+- Join multiple tables
+
+Without SQL, ML cannot start.
+
+-------------------------------------------------
+
+Q2. Where SQL is used in ML projects?
+A:
+- Data extraction
+- Feature creation
+- Data validation
+- Monitoring model inputs
+
+=================================================
+SECTION 2: CORE SQL CONCEPTS (INTERVIEW FOCUS)
+=================================================
+
+Q3. What is SELECT?
+A:
+SELECT is used to fetch data from a table.
+
+-------------------------------------------------
+
+Q4. What is WHERE?
+A:
+WHERE filters rows based on condition.
+
+-------------------------------------------------
+
+Q5. What is GROUP BY?
+A:
+GROUP BY groups rows with same values.
+
+-------------------------------------------------
+
+Q6. What is HAVING?
+A:
+HAVING filters grouped data.
+
+-------------------------------------------------
+
+Q7. What is JOIN?
+A:
+JOIN combines rows from multiple tables.
+
+Types:
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+
+=================================================
+SECTION 3: SQL QUESTIONS WITH ML CONTEXT
+=================================================
+
+Q8. How would you create features using SQL?
+A:
+Using:
+- Aggregations (SUM, AVG)
+- Window functions
+- Group by user or product
+
+-------------------------------------------------
+
+Q9. Example: Average user activity?
+A:
+GROUP BY user_id and calculate AVG(activity).
+
+-------------------------------------------------
+
+Q10. Why aggregations are useful in ML?
+A:
+They convert raw data into meaningful features.
+
+=================================================
+SECTION 4: SQL + DATA CLEANING
+=================================================
+
+Q11. How do you handle missing values in SQL?
+A:
+- Use COALESCE
+- Filter using WHERE
+- Replace with defaults
+
+-------------------------------------------------
+
+Q12. How do you remove duplicates in SQL?
+A:
+Using DISTINCT or window functions.
+
+=================================================
+SECTION 5: SQL + FEATURE ENGINEERING
+=================================================
+
+Q13. How do you create time-based features?
+A:
+Using:
+- Date functions
+- Extract day, month, year
+
+-------------------------------------------------
+
+Q14. Why time features are important?
+A:
+They capture user behavior patterns.
+
+=================================================
+SECTION 6: SQL + ML PIPELINE
+=================================================
+
+Q15. Typical SQL → ML pipeline?
+A:
+1. SQL extracts raw data
+2. Aggregations create features
+3. Data exported to ML system
+4. ML model trained
+
+-------------------------------------------------
+
+Q16. Why preprocessing in SQL?
+A:
+It reduces load on ML code and improves performance.
+
+=================================================
+SECTION 7: SQL + MODEL MONITORING
+=================================================
+
+Q17. How is SQL used after deployment?
+A:
+- Monitor input data
+- Detect anomalies
+- Track prediction statistics
+
+-------------------------------------------------
+
+Q18. What is data drift detection using SQL?
+A:
+Comparing current data distribution with historical data.
+
+=================================================
+SECTION 8: INTERVIEW SCENARIOS
+=================================================
+
+Q19. Interviewer: "How do you use SQL in ML projects?"
+A:
+"I use SQL to extract, clean, and aggregate data, create features, and monitor data quality before feeding it into ML models."
+
+-------------------------------------------------
+
+Q20. Interviewer: "Can ML engineer avoid SQL?"
+A:
+No.
+ML engineers use SQL for data pipelines and monitoring.
+
+=================================================
+SECTION 9: SQL VS PYTHON (INTERVIEW)
+=================================================
+
+Q21. When to use SQL?
+A:
+- Large datasets
+- Filtering and aggregation
+- Database operations
+
+-------------------------------------------------
+
+Q22. When to use Python?
+A:
+- Complex logic
+- Modeling
+- Visualization
+
+=================================================
+SECTION 10: COMMON INTERVIEW MISTAKES
+=================================================
+
+- Ignoring SQL basics
+- Only focusing on ML models
+- Not understanding joins
+- Weak aggregation concepts
+
+=================================================
+FINAL REVISION (ONE-LINERS)
+=================================================
+
+- SQL prepares data
+- ML consumes data
+- Aggregations create features
+- SQL helps monitoring
+- Analyst → SQL heavy
+- ML Engineer → SQL + ML
+
+=================================================
+END OF learn_15.txt
+=================================================
