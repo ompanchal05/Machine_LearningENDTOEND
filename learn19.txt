@@ -1,0 +1,180 @@
+learn_19.txt
+DAILY REVISION CHEAT SHEETS (FAST RECALL)
+========================================
+
+PURPOSE
+-------
+This document is for:
+- Daily quick revision (10–15 minutes)
+- Interview-day last review
+- Fast concept recall
+- Zero confusion under pressure
+
+Language: Very simple
+Focus: One-line clarity
+
+=================================================
+SECTION 1: PYTHON (ML FOCUS)
+=================================================
+
+- List → ordered, mutable
+- Tuple → ordered, immutable
+- Dict → key-value
+- NumPy array → fast numerical ops
+- Vectorization → no loops, faster code
+
+=================================================
+SECTION 2: PANDAS & DATA
+=================================================
+
+- DataFrame → table
+- head() → first rows
+- info() → data types
+- describe() → summary
+- Missing values → mean / median / mode
+
+=================================================
+SECTION 3: STATISTICS
+=================================================
+
+- Mean → average
+- Median → middle value
+- Mode → most frequent
+- Variance → spread
+- Std deviation → sqrt(variance)
+- Outlier → unusual value
+
+=================================================
+SECTION 4: PROBABILITY
+=================================================
+
+- Probability → chance (0 to 1)
+- Conditional probability → A given B
+- Normal distribution → bell curve
+- Skewness → left or right tilt
+
+=================================================
+SECTION 5: MACHINE LEARNING BASICS
+=================================================
+
+- ML → learning patterns from data
+- Supervised → labeled data
+- Unsupervised → no labels
+- Reinforcement → reward-based learning
+- Features → inputs
+- Target → output
+
+=================================================
+SECTION 6: TRAIN–TEST SPLIT
+=================================================
+
+- Train → learn
+- Test → evaluate
+- Avoids overfitting
+- Typical split → 80/20
+- X → features (capital by convention)
+- y → target (small by math convention)
+
+=================================================
+SECTION 7: REGRESSION
+=================================================
+
+- Linear Regression → continuous output
+- Loss → MSE
+- Gradient Descent → minimize loss
+- Ridge → L2 regularization
+- Lasso → L1 regularization (feature selection)
+
+=================================================
+SECTION 8: CLASSIFICATION
+=================================================
+
+- Logistic Regression → probability output
+- Sigmoid → 0 to 1
+- KNN → distance-based
+- SVM → max margin
+- Tree → rule-based
+
+=================================================
+SECTION 9: MODEL EVALUATION
+=================================================
+
+- Accuracy → overall correctness
+- Precision → avoid false positives
+- Recall → avoid false negatives
+- F1 → balance precision & recall
+- Confusion matrix → error table
+
+=================================================
+SECTION 10: ENSEMBLES
+=================================================
+
+- Random Forest → many trees
+- Bagging → reduce variance
+- Boosting → reduce bias
+- XGBoost → fast + accurate
+
+=================================================
+SECTION 11: DEEP LEARNING
+=================================================
+
+- ANN → tabular data
+- CNN → images
+- RNN → sequences
+- LSTM → long memory
+- Transformer → attention
+
+=================================================
+SECTION 12: MLOps
+=================================================
+
+- Deployment → make model usable
+- .pkl → saved model
+- Monitoring → performance tracking
+- Data drift → input change
+- Retraining → update model
+
+=================================================
+SECTION 13: SQL (INTERVIEW)
+=================================================
+
+- SELECT → fetch data
+- WHERE → filter rows
+- GROUP BY → aggregation
+- HAVING → filter groups
+- JOIN → combine tables
+
+=================================================
+SECTION 14: SYSTEM DESIGN
+=================================================
+
+- Problem first
+- Data pipeline
+- Feature engineering
+- Model training
+- Deployment
+- Monitoring
+
+=================================================
+SECTION 15: INTERVIEW GOLDEN LINES
+=================================================
+
+- Start simple
+- Explain decisions
+- Trade-offs matter
+- Data > model
+- Monitoring is mandatory
+
+=================================================
+FINAL 5-LINE REVISION (READ DAILY)
+=================================================
+
+- ML is pattern learning
+- Features matter most
+- Simple models first
+- Evaluate properly
+- Monitor in production
+
+=================================================
+END OF learn_19.txt
+=================================================
