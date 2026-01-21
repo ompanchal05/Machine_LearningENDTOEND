@@ -1,0 +1,240 @@
+learn_20.txt
+INTERNSHIP & JOB APPLICATION STRATEGY (DATA / ML ROLES)
+======================================================
+
+PURPOSE
+-------
+This document is created for:
+- Data Analyst internships
+- Data Scientist internships
+- ML Engineer internships
+- Freshers & final-year students
+
+Language: Simple English  
+Focus: Actionable steps  
+Rule: Skills + Proof + Consistency = Opportunity
+
+=================================================
+SECTION 1: REALITY CHECK (IMPORTANT)
+=================================================
+
+Truth:
+-----
+- Certificates alone do NOT get jobs
+- Projects + clarity do
+- GitHub matters
+- Communication matters
+
+=================================================
+SECTION 2: WHEN TO APPLY (TIMING)
+=================================================
+
+Best time to apply:
+-------------------
+- 3–6 months before graduation
+- Internships → apply early
+
+Daily rule:
+-----------
+Apply to 3–5 roles daily (quality > quantity)
+
+=================================================
+SECTION 3: ROLE-WISE STRATEGY
+=================================================
+
+DATA ANALYST:
+-------------
+Focus on:
+- SQL
+- Excel
+- Pandas
+- Visualization
+
+Projects:
+- Sales analysis
+- Customer analysis
+- Dashboard project
+
+-------------------------------------------------
+
+DATA SCIENTIST:
+---------------
+Focus on:
+- ML fundamentals
+- Statistics
+- Feature engineering
+- Model evaluation
+
+Projects:
+- Regression
+- Classification
+- End-to-end ML pipeline
+
+-------------------------------------------------
+
+ML ENGINEER:
+------------
+Focus on:
+- ML + deployment
+- Pipelines
+- MLOps basics
+
+Projects:
+- Model deployment
+- Monitoring simulation
+- System design
+
+=================================================
+SECTION 4: PROJECT STRATEGY (VERY IMPORTANT)
+=================================================
+
+Rule:
+-----
+2–3 strong projects > 10 weak projects
+
+Each project must show:
+-----------------------
+- Problem understanding
+- Data cleaning
+- Feature engineering
+- Model comparison
+- Evaluation
+- Deployment readiness
+
+=================================================
+SECTION 5: GITHUB STRATEGY
+=================================================
+
+GitHub must have:
+----------------
+- Clean folder structure
+- README.md
+- Clear commit history
+
+Bad GitHub:
+-----------
+- Random notebooks
+- No explanation
+
+=================================================
+SECTION 6: RESUME SHORTLIST STRATEGY
+=================================================
+
+Resume must:
+------------
+- Be 1 page
+- Highlight projects
+- Use action words
+
+Avoid:
+------
+- Long paragraphs
+- Buzzwords
+- Fake skills
+
+=================================================
+SECTION 7: HOW TO APPLY (STEP-BY-STEP)
+=================================================
+
+Step 1:
+-------
+Find role (LinkedIn / Internshala / Company site)
+
+Step 2:
+-------
+Customize resume slightly
+
+Step 3:
+-------
+Apply
+
+Step 4:
+-------
+Track application
+
+Step 5:
+-------
+Follow up if possible
+
+=================================================
+SECTION 8: LINKEDIN STRATEGY
+=================================================
+
+Daily:
+------
+- Post learning updates
+- Share projects
+- Connect with professionals
+
+Message template:
+-----------------
+"Hi, I am a student learning data/ML and would love to connect and learn from your experience."
+
+=================================================
+SECTION 9: COMMON REJECTION REASONS
+=================================================
+
+- Weak fundamentals
+- Poor project explanation
+- No deployment knowledge
+- Poor communication
+
+Fix these one by one.
+
+=================================================
+SECTION 10: INTERVIEW PREPARATION STRATEGY
+=================================================
+
+Before interview:
+-----------------
+- Revise basics
+- Practice explaining projects
+- Read job description
+
+During interview:
+-----------------
+- Be calm
+- Think aloud
+- Ask clarifying questions
+
+=================================================
+SECTION 11: INTERNSHIP CONVERSION TIPS
+=================================================
+
+- Ask questions
+- Take ownership
+- Document work
+- Communicate clearly
+
+=================================================
+SECTION 12: 90-DAY ACTION PLAN
+=================================================
+
+Month 1:
+--------
+- Strengthen basics
+- Build 1 strong project
+
+Month 2:
+--------
+- Add deployment
+- Apply to internships
+
+Month 3:
+--------
+- Interview prep
+- Mock interviews
+
+=================================================
+FINAL MOTIVATION (REALISTIC)
+=================================================
+
+You don’t need to be perfect.
+You need to be consistent.
+
+One strong project + clear explanation
+can change everything.
+
+=================================================
+END OF learn_20.txt
+=================================================
