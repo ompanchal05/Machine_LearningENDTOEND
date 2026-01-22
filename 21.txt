@@ -1,0 +1,252 @@
+learn_21.txt
+COMPANY-WISE INTERVIEW FOCUS (DATA / ML ROLES)
+=============================================
+
+PURPOSE
+-------
+This document helps you:
+- Understand what different companies test
+- Avoid over-preparing wrong topics
+- Focus your effort smartly
+- Crack interviews role-wise
+
+Language: Simple English
+Focus: Practical + realistic
+Rule: Every company tests DIFFERENT things
+
+=================================================
+SECTION 1: STARTUPS (EARLY / MID STAGE)
+=================================================
+
+What startups look for:
+-----------------------
+- Ability to work independently
+- End-to-end ownership
+- Practical problem solving
+
+Technical focus:
+----------------
+- Python basics
+- Pandas & NumPy
+- SQL
+- End-to-end ML projects
+- Deployment basics (Streamlit / API)
+
+Interview style:
+----------------
+- Explain your project deeply
+- Write small code snippets
+- Real-world data problems
+
+How to prepare:
+---------------
+- Know every line of your project
+- Be ready to debug
+- Focus on practical ML, not theory
+
+Golden line:
+------------
+"I can take a problem from data to deployment."
+
+=================================================
+SECTION 2: SERVICE-BASED COMPANIES
+(TCS, Infosys, Wipro, Accenture)
+=================================================
+
+What they look for:
+-------------------
+- Strong fundamentals
+- Clear communication
+- Willingness to learn
+
+Technical focus:
+----------------
+- Python basics
+- SQL
+- Statistics
+- ML fundamentals
+- Simple projects
+
+Interview style:
+----------------
+- Conceptual questions
+- HR + behavioral heavy
+- Scenario-based questions
+
+How to prepare:
+---------------
+- Revise basics daily
+- Practice explaining concepts simply
+- Prepare HR answers well
+
+Golden line:
+------------
+"I have strong fundamentals and a learning mindset."
+
+=================================================
+SECTION 3: PRODUCT-BASED COMPANIES
+(FAANG, Product Unicorns)
+=================================================
+
+What they look for:
+-------------------
+- Strong problem-solving
+- Deep understanding
+- Scalable thinking
+
+Technical focus:
+----------------
+- Data structures (basic)
+- ML algorithms (deep)
+- Statistics
+- System design (ML)
+- SQL + Python
+
+Interview style:
+----------------
+- Why-based questions
+- Trade-offs discussion
+- System design rounds
+
+How to prepare:
+---------------
+- Understand why algorithms work
+- Practice system design
+- Explain trade-offs clearly
+
+Golden line:
+------------
+"I design scalable ML systems, not just models."
+
+=================================================
+SECTION 4: DATA-FOCUSED COMPANIES
+(Analytics firms, Consulting)
+=================================================
+
+What they look for:
+-------------------
+- Business understanding
+- Data storytelling
+- SQL strength
+
+Technical focus:
+----------------
+- SQL (very strong)
+- Statistics
+- Visualization
+- Case studies
+
+Interview style:
+----------------
+- Case-based questions
+- Data interpretation
+- Business decisions
+
+How to prepare:
+---------------
+- Practice SQL daily
+- Learn how to explain insights
+- Focus on business impact
+
+Golden line:
+------------
+"I convert data into business decisions."
+
+=================================================
+SECTION 5: ML ENGINEERING ROLES
+=================================================
+
+What they look for:
+-------------------
+- ML + engineering skills
+- Deployment knowledge
+- Monitoring & pipelines
+
+Technical focus:
+----------------
+- ML algorithms
+- Pipelines
+- MLOps basics
+- APIs & deployment
+- System design
+
+Interview style:
+----------------
+- End-to-end ML system questions
+- Debugging
+- Production scenarios
+
+How to prepare:
+---------------
+- Practice deployment
+- Understand monitoring
+- Think in systems
+
+Golden line:
+------------
+"I build ML systems that work in production."
+
+=================================================
+SECTION 6: INTERNSHIP INTERVIEWS
+=================================================
+
+What they look for:
+-------------------
+- Fundamentals
+- Curiosity
+- Learning attitude
+
+Technical focus:
+----------------
+- Basics of Python, SQL
+- 1–2 good projects
+- Clear explanations
+
+Interview style:
+----------------
+- Simple questions
+- Project discussion
+- HR round
+
+How to prepare:
+---------------
+- Revise basics
+- Explain projects clearly
+- Be honest
+
+Golden line:
+------------
+"I may be a fresher, but I learn fast and take ownership."
+
+=================================================
+SECTION 7: COMMON MISTAKES (AVOID)
+=================================================
+
+- Preparing everything for every company
+- Ignoring HR rounds
+- Over-complicating answers
+- Not knowing your own project
+
+=================================================
+SECTION 8: FINAL STRATEGY
+=================================================
+
+1. Identify company type
+2. Adjust preparation
+3. Revise relevant topics
+4. Practice speaking answers
+5. Stay calm and confident
+
+=================================================
+FINAL ONE-LINER REVISION
+=================================================
+
+- Startup → Practical
+- Service → Fundamentals
+- Product → Depth
+- Analytics → Business
+- ML Engineer → Systems
+
+=================================================
+END OF learn_21.txt
+=================================================
