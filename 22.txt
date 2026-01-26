@@ -1,0 +1,172 @@
+learn_22.txt
+ONE-PAGE ULTIMATE MACHINE LEARNING REVISION
+===========================================
+
+PURPOSE
+-------
+This sheet is for:
+- Last-day revision
+- Interview quick recall
+- Clearing confusion fast
+- Staying calm under pressure
+
+Language: Ultra simple
+Rule: If you know this page, you are safe
+
+=================================================
+ML FUNDAMENTALS
+=================================================
+
+- Machine Learning = learning patterns from data
+- Feature (X) = input
+- Target (y) = output
+- Supervised → labeled data
+- Unsupervised → no labels
+- Reinforcement → reward-based learning
+
+=================================================
+TRAIN–TEST SPLIT
+=================================================
+
+- Train → model learns
+- Test → model evaluated
+- Avoids overfitting
+- Common split → 80/20
+- X capital → matrix
+- y small → vector
+
+=================================================
+STATISTICS
+=================================================
+
+- Mean → average
+- Median → middle
+- Mode → frequent
+- Variance → spread
+- Std Dev → sqrt(variance)
+- Outlier → unusual value
+
+=================================================
+REGRESSION
+=================================================
+
+- Linear Regression → continuous output
+- Loss → MSE
+- Gradient Descent → minimize loss
+- Ridge → L2 regularization
+- Lasso → L1 (feature selection)
+
+=================================================
+CLASSIFICATION
+=================================================
+
+- Logistic Regression → probability
+- Sigmoid → 0–1
+- Accuracy → overall
+- Precision → avoid FP
+- Recall → avoid FN
+- F1 → balance
+
+=================================================
+TREE & ENSEMBLE
+=================================================
+
+- Decision Tree → rules
+- Random Forest → many trees
+- Bagging → reduce variance
+- Boosting → reduce bias
+- XGBoost → fast + strong
+
+=================================================
+DEEP LEARNING
+=================================================
+
+- ANN → tabular
+- CNN → images
+- RNN/LSTM → sequence
+- Transformer → attention
+- ReLU → avoids vanishing gradient
+
+=================================================
+OVERFITTING
+=================================================
+
+- High train, low test
+- Fix using:
+  - Simpler model
+  - Regularization
+  - More data
+  - Cross-validation
+
+=================================================
+FEATURE ENGINEERING
+=================================================
+
+- Most important ML step
+- Better features > better model
+- Create from domain knowledge
+
+=================================================
+MODEL EVALUATION
+=================================================
+
+- Regression → RMSE, R²
+- Classification → Precision, Recall
+- Business decides metric
+
+=================================================
+PIPELINES & DEPLOYMENT
+=================================================
+
+- Pipeline → preprocessing + model
+- Prevents data leakage
+- Save model → .pkl
+- Deploy → API / App
+
+=================================================
+MLOps
+=================================================
+
+- Monitoring → mandatory
+- Data drift → input change
+- Concept drift → relationship change
+- Retraining → keep model alive
+
+=================================================
+SQL FOR ML
+=================================================
+
+- SELECT → get data
+- WHERE → filter
+- GROUP BY → aggregate
+- JOIN → combine tables
+
+=================================================
+SYSTEM DESIGN
+=================================================
+
+- Problem first
+- Data pipeline
+- Features
+- Model
+- Deployment
+- Monitoring
+
+=================================================
+FINAL 10 GOLDEN LINES
+=================================================
+
+1. Data > Model
+2. Simple first
+3. Features matter
+4. Metrics depend on business
+5. Overfitting is common
+6. Pipelines prevent mistakes
+7. Monitoring is required
+8. Retraining is normal
+9. Explain clearly
+10. Stay calm
+
+=================================================
+END OF learn_22.txt
+=================================================
