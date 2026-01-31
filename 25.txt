@@ -1,0 +1,225 @@
+learn_25.txt
+FINAL 30-DAY INTERVIEW COUNTDOWN PLAN (DATA / ML ROLES)
+======================================================
+
+PURPOSE
+-------
+This plan is designed for:
+- Last 30 days before interviews
+- Internship & fresher roles
+- Maximum confidence with minimum panic
+- Structured revision + practice
+
+Language: Simple English  
+Rule: Revision + practice > new topics
+
+=================================================
+HOW TO USE THIS PLAN
+=================================================
+
+Daily time:
+-----------
+- 60–90 minutes ideal
+- Minimum 30 minutes acceptable
+
+Daily structure:
+----------------
+- 15 min → Revision
+- 30 min → Coding / practice
+- 15–30 min → Speaking / mock Q&A
+
+=================================================
+WEEK 1 (DAY 1–7): FUNDAMENTALS LOCK-IN
+=================================================
+
+Day 1:
+------
+- Python basics revision
+- Lists, dicts, loops
+- Write 3 small programs
+
+Day 2:
+------
+- NumPy + Pandas basics
+- Load CSV, filter, groupby
+
+Day 3:
+------
+- Statistics basics
+- Mean, median, std, probability
+
+Day 4:
+------
+- ML basics
+- Types of ML
+- Train–test split
+- Bias vs variance
+
+Day 5:
+------
+- Regression models
+- Linear, Ridge, Lasso
+- Evaluation metrics
+
+Day 6:
+------
+- Classification models
+- Logistic Regression
+- Precision, recall, F1
+
+Day 7:
+------
+- Weekly revision
+- Read learn_22.txt fully
+- Explain concepts aloud
+
+=================================================
+WEEK 2 (DAY 8–14): PROJECT & SQL FOCUS
+=================================================
+
+Day 8:
+------
+- SQL basics
+- SELECT, WHERE, GROUP BY
+
+Day 9:
+------
+- SQL JOINs
+- Practice 5 queries
+
+Day 10:
+-------
+- Revise Project 1 deeply
+- Explain problem → solution flow
+
+Day 11:
+-------
+- Revise Project 2
+- Focus on challenges & fixes
+
+Day 12:
+-------
+- Feature engineering revision
+- Real examples from projects
+
+Day 13:
+-------
+- Model evaluation & overfitting
+- How you improved models
+
+Day 14:
+-------
+- Mock interview (self)
+- Record yourself explaining projects
+
+=================================================
+WEEK 3 (DAY 15–21): ML ENGINEERING & SYSTEM THINKING
+=================================================
+
+Day 15:
+-------
+- Pipelines & data leakage
+- Explain pipeline benefits
+
+Day 16:
+-------
+- Model saving (.pkl)
+- Deployment flow (theory)
+
+Day 17:
+-------
+- MLOps basics
+- Monitoring, drift, retraining
+
+Day 18:
+-------
+- System design basics
+- Read learn_14.txt
+
+Day 19:
+-------
+- One system design question
+- Churn or fraud system
+
+Day 20:
+-------
+- Deep Learning basics
+- ANN, CNN, Transformer (concepts)
+
+Day 21:
+-------
+- Weekly revision
+- Read learn_19.txt & learn_22.txt
+
+=================================================
+WEEK 4 (DAY 22–30): INTERVIEW POLISH
+=================================================
+
+Day 22:
+-------
+- HR questions practice
+- Tell me about yourself
+
+Day 23:
+-------
+- Strengths & weaknesses
+- Failure & learning answers
+
+Day 24:
+-------
+- Internship interview Q&A
+- Read learn_24.txt
+
+Day 25:
+-------
+- Company-specific prep
+- Startup vs service vs product
+
+Day 26:
+-------
+- Mock interview (friend / mirror)
+- Full technical + HR
+
+Day 27:
+-------
+- Weak area revision
+- Fix confusion topics
+
+Day 28:
+-------
+- Light revision only
+- No heavy learning
+
+Day 29:
+-------
+- Confidence day
+- Read only cheat sheets
+
+Day 30:
+-------
+- Interview day
+- Stay calm
+- Speak slowly
+- Smile
+
+=================================================
+FINAL INTERVIEW DAY RULES
+=================================================
+
+- Don’t rush answers
+- Think aloud
+- Admit if unsure
+- Explain clearly
+- Stay positive
+
+=================================================
+FINAL MOTIVATION
+=================================================
+
+You have prepared properly.
+Trust your preparation.
+Confidence comes from clarity.
+
+=================================================
+END OF learn_25.txt
+=================================================
