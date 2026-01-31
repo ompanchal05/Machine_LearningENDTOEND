@@ -1,0 +1,208 @@
+learn_24.txt
+INTERNSHIP INTERVIEW QUESTIONS (DATA / ML ROLES)
+===============================================
+
+PURPOSE
+-------
+This document is for:
+- Internship interviews
+- Fresher interviews
+- Quick preparation
+- Confidence building
+
+Language: Simple English  
+Focus: Clear answers, not heavy theory
+
+=================================================
+SECTION 1: PYTHON QUESTIONS
+=================================================
+
+Q1. What is Python used for in data roles?
+A:
+Python is used for data analysis, automation, and machine learning.
+
+-------------------------------------------------
+
+Q2. Difference between list and tuple?
+A:
+List is mutable, tuple is immutable.
+
+-------------------------------------------------
+
+Q3. What is a dictionary?
+A:
+A key-value data structure.
+
+-------------------------------------------------
+
+Q4. Why use NumPy?
+A:
+For fast numerical computation.
+
+=================================================
+SECTION 2: PANDAS & DATA
+=================================================
+
+Q5. What is a DataFrame?
+A:
+A table-like structure for data.
+
+-------------------------------------------------
+
+Q6. How do you handle missing values?
+A:
+Remove rows or fill using mean/median/mode.
+
+-------------------------------------------------
+
+Q7. What is EDA?
+A:
+Exploring data to understand patterns and problems.
+
+=================================================
+SECTION 3: STATISTICS
+=================================================
+
+Q8. What is mean, median, mode?
+A:
+Mean → average
+Median → middle
+Mode → frequent
+
+-------------------------------------------------
+
+Q9. What is standard deviation?
+A:
+It shows how much data varies.
+
+=================================================
+SECTION 4: MACHINE LEARNING BASICS
+=================================================
+
+Q10. What is Machine Learning?
+A:
+Teaching machines to learn from data.
+
+-------------------------------------------------
+
+Q11. Types of ML?
+A:
+Supervised, Unsupervised, Reinforcement.
+
+-------------------------------------------------
+
+Q12. What is train–test split?
+A:
+Splitting data into training and testing sets.
+
+-------------------------------------------------
+
+Q13. Why train–test split is needed?
+A:
+To test model on unseen data.
+
+=================================================
+SECTION 5: REGRESSION & CLASSIFICATION
+=================================================
+
+Q14. What is Linear Regression?
+A:
+Predicts continuous values.
+
+-------------------------------------------------
+
+Q15. What is Logistic Regression?
+A:
+Used for classification problems.
+
+-------------------------------------------------
+
+Q16. Difference between regression and classification?
+A:
+Regression → numbers
+Classification → categories
+
+=================================================
+SECTION 6: MODEL EVALUATION
+=================================================
+
+Q17. What is accuracy?
+A:
+Correct predictions / total predictions.
+
+-------------------------------------------------
+
+Q18. What is overfitting?
+A:
+Model performs well on training but poorly on testing.
+
+=================================================
+SECTION 7: SQL QUESTIONS
+=================================================
+
+Q19. What is SELECT?
+A:
+Used to fetch data.
+
+-------------------------------------------------
+
+Q20. What is GROUP BY?
+A:
+Groups data for aggregation.
+
+-------------------------------------------------
+
+Q21. What is JOIN?
+A:
+Combines data from multiple tables.
+
+=================================================
+SECTION 8: PROJECT QUESTIONS
+=================================================
+
+Q22. Explain your project briefly.
+A:
+"I cleaned data, built ML model, evaluated it, and explained results."
+
+-------------------------------------------------
+
+Q23. What challenges did you face?
+A:
+Data cleaning and feature selection.
+
+=================================================
+SECTION 9: BEHAVIORAL QUESTIONS
+=================================================
+
+Q24. Why do you want this internship?
+A:
+To learn and apply my skills in real projects.
+
+-------------------------------------------------
+
+Q25. What are your strengths?
+A:
+Learning ability and consistency.
+
+=================================================
+SECTION 10: FINAL INTERNSHIP TIPS
+=================================================
+
+- Be honest
+- Explain simply
+- Show curiosity
+- Stay calm
+
+=================================================
+FINAL QUICK REVISION
+=================================================
+
+- Python basics
+- Pandas basics
+- ML basics
+- SQL basics
+- One project explanation
+
+=================================================
+END OF learn_24.txt
+=================================================
