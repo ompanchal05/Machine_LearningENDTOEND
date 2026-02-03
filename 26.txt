@@ -1,0 +1,132 @@
+learn_26.txt
+50 DAILY MACHINE LEARNING PROJECT IDEAS (BEGINNER → ADVANCED)
+=============================================================
+
+PURPOSE
+-------
+This document is created for:
+- Daily project practice
+- Building strong GitHub profile
+- Interview discussion
+- Long-term (365-day) mastery
+
+Rule:
+-----
+Small project > No project
+
+=================================================
+LEVEL 1: BEGINNER (DAY 1–15)
+=================================================
+
+1. Student marks prediction (Regression)
+2. House price prediction
+3. Salary prediction
+4. Sales forecasting (simple)
+5. Temperature prediction
+6. Customer age prediction
+7. Simple linear regression from scratch
+8. Loan approval prediction
+9. Insurance cost prediction
+10. Basic EDA on any CSV
+11. Titanic survival prediction
+12. Iris flower classification
+13. Spam email detection
+14. Movie rating prediction
+15. Customer segmentation (KMeans)
+
+=================================================
+LEVEL 2: INTERMEDIATE (DAY 16–30)
+=================================================
+
+16. Customer churn prediction
+17. Credit card fraud detection
+18. Product recommendation (basic)
+19. Demand forecasting
+20. Employee attrition prediction
+21. Stock price trend prediction
+22. Review sentiment analysis
+23. Price optimization model
+24. Email open rate prediction
+25. User behavior analysis
+26. Feature selection comparison
+27. Model comparison project
+28. Hyperparameter tuning project
+29. Time-series sales analysis
+30. Anomaly detection system
+
+=================================================
+LEVEL 3: ADVANCED ML (DAY 31–40)
+=================================================
+
+31. ML pipeline project
+32. End-to-end ML deployment
+33. A/B testing simulation
+34. Model monitoring simulation
+35. Data drift detection
+36. Recommendation engine (collaborative)
+37. Ranking system (basic)
+38. Search relevance model
+39. Fraud detection (advanced)
+40. Feature store simulation
+
+=================================================
+LEVEL 4: DEEP LEARNING (DAY 41–50)
+=================================================
+
+41. Image classification using CNN
+42. Digit recognition (MNIST)
+43. Face mask detection
+44. Text classification using DL
+45. Chatbot (basic)
+46. News classification
+47. Image similarity search
+48. Recommendation using neural networks
+49. LSTM time-series forecasting
+50. Transformer-based text classifier
+
+=================================================
+HOW TO DO EACH PROJECT (IMPORTANT)
+=================================================
+
+For every project:
+-------------------
+1. Define problem
+2. Load data
+3. Clean data
+4. Perform EDA
+5. Feature engineering
+6. Train multiple models
+7. Evaluate models
+8. Select best model
+9. Save model (.pkl)
+10. Write README.md
+
+=================================================
+GITHUB STRUCTURE (RECOMMENDED)
+=================================================
+
+project_name/
+├── data/
+├── notebook.ipynb
+├── model.pkl
+├── README.md
+
+=================================================
+INTERVIEW TIP
+=================================================
+
+You don’t need to finish all 50.
+5 strong projects explained well
+> 50 weak projects.
+
+=================================================
+FINAL MOTIVATION
+=================================================
+
+One project per day builds confidence.
+One project per week builds skill.
+One project per month builds career.
+
+=================================================
+END OF learn_26.txt
+=================================================
