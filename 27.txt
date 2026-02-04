@@ -1,0 +1,152 @@
+learn_27.txt
+INTERNSHIP & FRESHER RESUME TEMPLATE (DATA / ML ROLES)
+=====================================================
+
+PURPOSE
+-------
+This resume template is designed for:
+- Data Analyst internships
+- Data Scientist internships
+- ML Engineer internships
+- Freshers with projects (no experience)
+
+Rule:
+-----
+Clarity > Fancy words  
+Projects > Certificates > CGPA
+
+=================================================
+HOW TO USE THIS TEMPLATE
+=================================================
+
+- Keep resume to 1 page
+- Use bullet points
+- Use simple English
+- Only write what you KNOW
+
+=================================================
+RESUME TEMPLATE (COPY BELOW)
+=================================================
+
+[YOUR NAME]
+------------
+Email: your@email.com  
+Phone: +91-XXXXXXXXXX  
+LinkedIn: linkedin.com/in/yourname  
+GitHub: github.com/yourname  
+
+-------------------------------------------------
+SUMMARY (2–3 LINES)
+-------------------------------------------------
+
+Motivated student with strong fundamentals in data analysis and machine learning.  
+Hands-on experience in building end-to-end ML projects including data cleaning, model training, evaluation, and deployment-ready pipelines.
+
+-------------------------------------------------
+SKILLS
+-------------------------------------------------
+
+Programming:
+- Python
+- SQL
+
+Libraries & Tools:
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Git & GitHub
+
+Machine Learning:
+- Regression
+- Classification
+- Feature Engineering
+- Model Evaluation
+- Train–Test Split
+
+Basics:
+- Statistics
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+
+-------------------------------------------------
+PROJECTS (MOST IMPORTANT SECTION)
+-------------------------------------------------
+
+PROJECT 1: [Project Name]
+-------------------------
+- Built an end-to-end machine learning model to solve [problem].
+- Performed data cleaning, feature engineering, and model training.
+- Trained multiple models and evaluated them using appropriate metrics.
+- Selected best model based on performance and generalization.
+
+Tech Used: Python, Pandas, Scikit-learn
+
+-------------------------------------------------
+
+PROJECT 2: [Project Name]
+-------------------------
+- Analyzed dataset to extract meaningful insights.
+- Applied machine learning algorithms for prediction/classification.
+- Improved model performance through feature engineering and tuning.
+
+Tech Used: Python, SQL, ML
+
+-------------------------------------------------
+INTERNSHIP / EXPERIENCE (IF ANY)
+-------------------------------------------------
+
+[Optional – Skip if none]
+
+-------------------------------------------------
+EDUCATION
+-------------------------------------------------
+
+Bachelor of Technology (B.Tech) in [Your Branch]  
+[University Name]  
+Year: 20XX – 20XX  
+
+-------------------------------------------------
+CERTIFICATIONS (OPTIONAL)
+-------------------------------------------------
+
+- Machine Learning Basics – [Platform Name]
+- Data Analysis – [Platform Name]
+
+-------------------------------------------------
+ADDITIONAL
+-------------------------------------------------
+
+- Strong problem-solving skills
+- Quick learner
+- Good communication
+
+=================================================
+COMMON RESUME MISTAKES (AVOID)
+=================================================
+
+- Writing long paragraphs
+- Listing too many tools
+- Fake experience
+- Copy-paste projects
+
+=================================================
+FINAL RESUME CHECKLIST
+=================================================
+
+✔ One page only  
+✔ Projects clearly explained  
+✔ GitHub link added  
+✔ Simple language  
+✔ No spelling mistakes  
+
+=================================================
+FINAL INTERVIEW TIP
+=================================================
+
+Resume gets you shortlisted.
+Explanation gets you selected.
+
+=================================================
+END OF learn_27.txt
+=================================================
