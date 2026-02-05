@@ -1,0 +1,226 @@
+learn_28.txt
+INTERVIEW MISTAKES & FIXES (DATA / ML ROLES)
+===========================================
+
+PURPOSE
+-------
+This document is created to:
+- Identify common interview mistakes
+- Learn how to fix them
+- Improve confidence and clarity
+- Avoid easy rejections
+
+Language: Simple English  
+Rule: Most rejections happen due to basics, not advanced topics
+
+=================================================
+SECTION 1: TECHNICAL MISTAKES
+=================================================
+
+MISTAKE 1: Jumping to complex models
+-----------------------------------
+Problem:
+- Starting with XGBoost / DL immediately
+
+Fix:
+- Always start with simple baseline
+- Explain WHY you moved to complex model
+
+-------------------------------------------------
+
+MISTAKE 2: Weak understanding of basics
+---------------------------------------
+Problem:
+- Cannot explain train–test split
+- Confusion between regression and classification
+
+Fix:
+- Revise fundamentals daily
+- Practice explaining in simple words
+
+-------------------------------------------------
+
+MISTAKE 3: Ignoring evaluation metrics
+--------------------------------------
+Problem:
+- Talking only about accuracy
+
+Fix:
+- Choose metric based on business problem
+- Explain trade-offs
+
+-------------------------------------------------
+
+MISTAKE 4: Not knowing your own project
+---------------------------------------
+Problem:
+- Cannot explain decisions taken
+
+Fix:
+- Know every step of your project
+- Be ready to explain alternatives
+
+=================================================
+SECTION 2: CODING MISTAKES
+=================================================
+
+MISTAKE 5: Writing code without thinking
+----------------------------------------
+Problem:
+- Syntax errors
+- Confused logic
+
+Fix:
+- Think first, then code
+- Write step by step
+
+-------------------------------------------------
+
+MISTAKE 6: Not explaining code
+------------------------------
+Problem:
+- Silent while coding
+
+Fix:
+- Think aloud
+- Explain logic while writing code
+
+=================================================
+SECTION 3: SQL MISTAKES
+=================================================
+
+MISTAKE 7: Weak JOIN understanding
+----------------------------------
+Problem:
+- Confusion in JOIN types
+
+Fix:
+- Practice joins daily
+- Draw tables mentally
+
+-------------------------------------------------
+
+MISTAKE 8: Ignoring edge cases
+------------------------------
+Problem:
+- NULL values not handled
+
+Fix:
+- Always think about missing data
+
+=================================================
+SECTION 4: SYSTEM DESIGN MISTAKES
+=================================================
+
+MISTAKE 9: Jumping to model too early
+-------------------------------------
+Problem:
+- Ignoring data pipeline
+
+Fix:
+- Start with business problem
+- Explain end-to-end flow
+
+-------------------------------------------------
+
+MISTAKE 10: No monitoring discussion
+------------------------------------
+Problem:
+- Forgetting post-deployment
+
+Fix:
+- Always mention monitoring and retraining
+
+=================================================
+SECTION 5: COMMUNICATION MISTAKES
+=================================================
+
+MISTAKE 11: Overusing technical jargon
+--------------------------------------
+Problem:
+- Complex words, unclear meaning
+
+Fix:
+- Use simple language
+- Explain like teaching a beginner
+
+-------------------------------------------------
+
+MISTAKE 12: Speaking too fast
+-----------------------------
+Problem:
+- Nervousness
+
+Fix:
+- Slow down
+- Pause before answering
+
+=================================================
+SECTION 6: HR & BEHAVIORAL MISTAKES
+=================================================
+
+MISTAKE 13: Being dishonest
+---------------------------
+Problem:
+- Claiming skills you don’t have
+
+Fix:
+- Be honest
+- Show learning mindset
+
+-------------------------------------------------
+
+MISTAKE 14: Negative attitude
+-----------------------------
+Problem:
+- Complaining about college/company
+
+Fix:
+- Stay positive and professional
+
+=================================================
+SECTION 7: INTERVIEW DAY MISTAKES
+=================================================
+
+MISTAKE 15: Panic
+-----------------
+Problem:
+- Forgetting basics
+
+Fix:
+- Breathe
+- Read cheat sheet once
+
+-------------------------------------------------
+
+MISTAKE 16: Not asking clarifying questions
+-------------------------------------------
+Problem:
+- Wrong assumptions
+
+Fix:
+- Ask 1–2 clarifying questions
+
+=================================================
+SECTION 8: FINAL INTERVIEW RULES
+=================================================
+
+- Start simple
+- Explain decisions
+- Admit if unsure
+- Focus on clarity
+- Show learning attitude
+
+=================================================
+FINAL 5 GOLDEN FIXES
+=================================================
+
+1. Revise basics
+2. Explain projects clearly
+3. Think before coding
+4. Speak calmly
+5. Be honest
+
+=================================================
+END OF learn_28.txt
+=================================================
