@@ -1,0 +1,184 @@
+learn_29.txt
+COMPANY-WISE CODING QUESTIONS (DATA / ML ROLES)
+==============================================
+
+PURPOSE
+-------
+This document is created for:
+- Coding rounds
+- Technical interviews
+- Internship & fresher roles
+- Startup & product companies
+
+Language: Simple English  
+Focus: Practical coding questions  
+Rule: Understand logic, not memorize answers
+
+=================================================
+SECTION 1: SERVICE-BASED COMPANIES
+(TCS, Infosys, Wipro, Accenture)
+=================================================
+
+Common Coding Questions:
+
+1. Reverse a string
+2. Find duplicate elements in list
+3. Count frequency of characters
+4. Find second largest number
+5. Check palindrome
+6. Fibonacci series
+7. Prime number check
+8. Basic SQL SELECT + WHERE
+9. GROUP BY aggregation
+10. INNER JOIN example
+
+Focus:
+------
+- Python basics
+- SQL basics
+- Logic clarity
+
+=================================================
+SECTION 2: STARTUPS (DATA / ML)
+=================================================
+
+Common Coding Questions:
+
+1. Load CSV and perform EDA
+2. Handle missing values
+3. Feature scaling implementation
+4. Train-test split implementation
+5. Build regression model
+6. Evaluate classification model
+7. Explain confusion matrix
+8. Write simple ML pipeline
+9. Debug broken ML code
+10. Explain overfitting with code
+
+Focus:
+------
+- Practical ML coding
+- Pandas operations
+- Real-world debugging
+
+=================================================
+SECTION 3: PRODUCT-BASED COMPANIES
+(FAANG, Product Unicorns)
+=================================================
+
+Common Coding Questions:
+
+1. Implement linear regression from scratch
+2. Write gradient descent manually
+3. Implement logistic regression logic
+4. Explain time complexity of code
+5. SQL complex joins
+6. Window functions in SQL
+7. Write KNN from scratch
+8. Explain bias–variance using code example
+9. Optimize slow Python code
+10. Solve medium-level DSA problems
+
+Focus:
+------
+- Logic depth
+- Clean coding
+- Time complexity
+- Trade-offs
+
+=================================================
+SECTION 4: DATA ANALYST ROLES
+=================================================
+
+Common Coding Questions:
+
+1. SQL aggregation queries
+2. Grouping and filtering
+3. Handling NULL values
+4. Pandas groupby examples
+5. Creating new columns
+6. Calculating moving averages
+7. Date manipulation
+8. Sorting & ranking
+9. Percentage calculations
+10. Business case data analysis
+
+Focus:
+------
+- SQL strength
+- Data cleaning
+- Business logic
+
+=================================================
+SECTION 5: ML ENGINEER ROLES
+=================================================
+
+Common Coding Questions:
+
+1. Build ML pipeline
+2. Save & load model (.pkl)
+3. Deploy simple API
+4. Write preprocessing class
+5. Handle categorical encoding
+6. Cross-validation code
+7. Hyperparameter tuning
+8. Detect data leakage
+9. Simulate monitoring metrics
+10. Discuss scaling issues
+
+Focus:
+------
+- End-to-end flow
+- Clean code structure
+- Deployment understanding
+
+=================================================
+SECTION 6: INTERVIEW CODING STRATEGY
+=================================================
+
+Before coding:
+--------------
+- Clarify problem
+- Ask edge cases
+- Confirm input/output
+
+While coding:
+-------------
+- Think aloud
+- Write clean code
+- Use meaningful variable names
+
+After coding:
+-------------
+- Test with sample input
+- Discuss complexity
+- Suggest improvements
+
+=================================================
+SECTION 7: DAILY CODING PRACTICE PLAN
+=================================================
+
+Daily:
+------
+- 1 Python logic problem
+- 1 SQL query
+- 1 ML small task
+
+Weekly:
+-------
+- Implement one ML algorithm from scratch
+- Practice 5 SQL queries
+
+=================================================
+FINAL GOLDEN RULES
+=================================================
+
+- Logic > Speed
+- Clean code > Long code
+- Explain clearly
+- Stay calm
+- Admit mistakes and fix them
+
+=================================================
+END OF learn_29.txt
+=================================================
