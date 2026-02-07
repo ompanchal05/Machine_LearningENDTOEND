@@ -1,0 +1,166 @@
+learn_30.txt
+DAILY 15-MINUTE REVISION SYSTEM (DATA / ML ROLES)
+=================================================
+
+PURPOSE
+-------
+This plan is for:
+- Busy days
+- Exam weeks
+- Internship interview season
+- Maintaining consistency
+
+Rule:
+-----
+15 minutes daily > 0 minutes daily
+
+=================================================
+HOW TO USE THIS
+=================================================
+
+Total Time: 15 Minutes
+
+5 min  → Concepts  
+5 min  → Coding logic  
+5 min  → Speaking practice  
+
+Do this every day.
+
+=================================================
+DAY-WISE ROTATION SYSTEM
+=================================================
+
+MONDAY → Python + Logic
+TUESDAY → SQL
+WEDNESDAY → Statistics
+THURSDAY → Machine Learning
+FRIDAY → Model Evaluation + Overfitting
+SATURDAY → System Design + MLOps
+SUNDAY → Project Explanation + HR
+
+Repeat weekly.
+
+=================================================
+MONDAY (PYTHON QUICK REVISION)
+=================================================
+
+Revise:
+- Lists
+- Dictionaries
+- Loops
+- Functions
+
+Practice:
+- Reverse string
+- Count frequency
+- Find max in list
+
+Speak:
+- Explain list vs tuple
+
+=================================================
+TUESDAY (SQL QUICK REVISION)
+=================================================
+
+Revise:
+- SELECT
+- WHERE
+- GROUP BY
+- JOIN
+
+Practice:
+- Write 1 aggregation query
+- Write 1 join query
+
+Speak:
+- Explain INNER JOIN
+
+=================================================
+WEDNESDAY (STATISTICS QUICK REVISION)
+=================================================
+
+Revise:
+- Mean
+- Median
+- Variance
+- Probability
+
+Speak:
+- Explain bias–variance tradeoff
+
+=================================================
+THURSDAY (ML BASICS)
+=================================================
+
+Revise:
+- Supervised vs Unsupervised
+- Train–test split
+- Regression vs Classification
+
+Speak:
+- Why train–test split is needed
+
+=================================================
+FRIDAY (MODEL EVALUATION)
+=================================================
+
+Revise:
+- Accuracy
+- Precision
+- Recall
+- F1
+
+Speak:
+- When to prefer recall over precision
+
+=================================================
+SATURDAY (SYSTEM THINKING)
+=================================================
+
+Revise:
+- Pipeline
+- Deployment
+- Monitoring
+- Data drift
+
+Speak:
+- End-to-end ML flow
+
+=================================================
+SUNDAY (PROJECT & HR)
+=================================================
+
+Revise:
+- Project 1 explanation
+- Project 2 explanation
+
+Speak:
+- Tell me about yourself
+- Biggest challenge faced
+
+=================================================
+EMERGENCY INTERVIEW DAY PLAN (5 MIN VERSION)
+=================================================
+
+Read:
+- learn_22.txt
+
+Remind yourself:
+- Start simple
+- Speak clearly
+- Think aloud
+- Stay calm
+
+=================================================
+FINAL RULE
+=================================================
+
+If you feel lazy:
+Do only 5 minutes.
+Never break the streak.
+
+Consistency builds confidence.
+
+=================================================
+END OF learn_30.txt
+=================================================
