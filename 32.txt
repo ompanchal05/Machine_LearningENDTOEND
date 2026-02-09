@@ -1,0 +1,229 @@
+learn_32.txt
+MAANG-LEVEL UPGRADE PLAN (DATA / ML ROLES)
+==========================================
+
+PURPOSE
+-------
+This guide is for:
+- Product-based companies
+- High-paying ML roles
+- Strong technical interviews
+- Serious career upgrade
+
+Rule:
+-----
+MAANG does not test memorization.
+MAANG tests depth + clarity + trade-offs.
+
+=================================================
+SECTION 1: WHAT CHANGES AT MAANG LEVEL?
+=================================================
+
+Normal companies test:
+- Basic ML
+- Basic SQL
+- Simple projects
+
+MAANG tests:
+- Why algorithm works
+- When not to use it
+- Trade-offs
+- Scalability
+- System thinking
+
+=================================================
+SECTION 2: ML DEPTH UPGRADE
+=================================================
+
+You must deeply understand:
+
+1. Linear Regression
+   - Assumptions
+   - Why MSE
+   - When it fails
+
+2. Logistic Regression
+   - Why sigmoid
+   - Log loss
+   - Decision boundary
+
+3. Bias–Variance Tradeoff
+   - Mathematical intuition
+   - Real examples
+
+4. Regularization
+   - L1 vs L2
+   - Why L1 does feature selection
+
+5. Cross-validation
+   - Why k-fold is better than single split
+
+You must be able to explain without notes.
+
+=================================================
+SECTION 3: ENSEMBLES (VERY IMPORTANT)
+=================================================
+
+Understand deeply:
+
+- Why Random Forest reduces variance
+- Why Boosting reduces bias
+- Difference between Bagging & Boosting
+- When XGBoost fails
+
+Interview question example:
+----------------------------
+"Why did your XGBoost overfit?"
+
+You must answer logically.
+
+=================================================
+SECTION 4: SYSTEM DESIGN (ML)
+=================================================
+
+At MAANG level, expect:
+
+- Design a recommendation system
+- Design fraud detection system
+- Design ranking algorithm
+
+You must cover:
+- Data pipeline
+- Feature store
+- Model training
+- Deployment
+- Monitoring
+- Scaling
+- Trade-offs
+
+Never jump directly to model.
+
+=================================================
+SECTION 5: SQL ADVANCED
+=================================================
+
+Be strong in:
+
+- Complex JOINs
+- Window functions
+- Subqueries
+- Aggregation logic
+- Ranking functions
+
+You should solve medium SQL problems comfortably.
+
+=================================================
+SECTION 6: CODING DEPTH
+=================================================
+
+Expect:
+
+- Implement algorithm from scratch
+- Explain time complexity
+- Optimize slow code
+- Handle edge cases
+
+Practice:
+---------
+- Gradient Descent from scratch
+- KNN from scratch
+- Train-test split manually
+
+=================================================
+SECTION 7: DEEP LEARNING UPGRADE
+=================================================
+
+If role requires DL:
+
+Understand:
+- Vanishing gradient
+- Batch normalization
+- Why Transformers work
+- Attention mechanism intuition
+- Model optimization trade-offs
+
+Explain clearly, not mathematically heavy.
+
+=================================================
+SECTION 8: SCALABILITY THINKING
+=================================================
+
+MAANG cares about scale.
+
+Be ready to answer:
+- What if data grows 100x?
+- How do you reduce latency?
+- How do you retrain at scale?
+
+Mention:
+- Distributed systems
+- Batch vs real-time
+- Monitoring pipelines
+
+=================================================
+SECTION 9: BEHAVIORAL AT PRODUCT COMPANIES
+=================================================
+
+They test:
+- Ownership
+- Leadership
+- Problem-solving mindset
+- Handling ambiguity
+
+Answer using:
+Situation → Action → Result format
+
+=================================================
+SECTION 10: 90-DAY MAANG UPGRADE PLAN
+=================================================
+
+Month 1:
+--------
+- Strengthen ML theory deeply
+- Practice SQL medium problems
+
+Month 2:
+--------
+- System design practice
+- Build 1 production-style project
+
+Month 3:
+--------
+- Mock interviews
+- Implement algorithms from scratch
+
+=================================================
+SECTION 11: MAANG INTERVIEW MINDSET
+=================================================
+
+- Think before speaking
+- Clarify requirements
+- Start simple
+- Scale gradually
+- Discuss trade-offs
+
+=================================================
+FINAL ELITE RULES
+=================================================
+
+1. Depth > Breadth
+2. Why > What
+3. Trade-offs matter
+4. Scale thinking matters
+5. Calm communication wins
+
+=================================================
+FINAL MESSAGE
+=================================================
+
+MAANG level is not about genius.
+It is about structured thinking.
+
+If your fundamentals are strong,
+you can reach there.
+
+Consistency + depth = elite level.
+
+=================================================
+END OF learn_32.txt
+=================================================
