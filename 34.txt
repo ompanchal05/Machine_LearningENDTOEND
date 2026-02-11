@@ -1,0 +1,214 @@
+learn_34.txt
+10 LPA BY 2026 – REALISTIC EXECUTION ROADMAP
+============================================
+
+PROFILE CONTEXT
+---------------
+You are:
+- B.Tech CSE student (passout 2027)
+- Learning ML seriously
+- Considering MBA/Consulting also
+- Want strong placement before 2026–27
+
+Goal:
+-----
+Secure 8–12 LPA role by 2026.
+
+This plan is realistic.
+No fantasy. Only execution.
+
+=================================================
+STEP 1: UNDERSTAND 10 LPA MARKET REALITY
+=================================================
+
+10 LPA in India usually comes from:
+- Product startups
+- Mid-tier product companies
+- Strong analytics firms
+- Good ML/DA roles
+
+They expect:
+- Strong fundamentals
+- 2–3 solid projects
+- Clear communication
+- Internship experience
+
+Not genius.
+Not research papers.
+Not 50 certificates.
+
+=================================================
+PHASE 1: 2024–MID 2025 (FOUNDATION + PROJECT POWER)
+=================================================
+
+Focus:
+------
+1. Python strong
+2. SQL strong
+3. 3 high-quality ML projects
+4. Clean GitHub
+
+Projects must include:
+----------------------
+- Regression
+- Classification
+- End-to-end ML pipeline with deployment
+
+Target:
+-------
+Be internship ready by mid 2025.
+
+=================================================
+PHASE 2: MID 2025–MID 2026 (INTERNSHIP + UPGRADE)
+=================================================
+
+Priority:
+---------
+1. Secure internship (even unpaid if learning heavy)
+2. Work on real data
+3. Learn deployment & monitoring
+4. Improve system thinking
+
+Internship converts resume from:
+"Student"
+to
+"Industry-ready"
+
+Target:
+-------
+By 2026 → You must have:
+- 1 real internship
+- 1 production-style project
+- Confident project explanation
+
+=================================================
+PHASE 3: LATE 2026 (PLACEMENT STRATEGY)
+=================================================
+
+Preparation:
+------------
+- Revise fundamentals
+- Practice mock interviews
+- Strengthen SQL
+- Practice ML system design basics
+
+Apply to:
+---------
+- Startups
+- Product companies
+- Analytics firms
+- Not only big brands
+
+Strategy:
+---------
+Apply daily.
+Track applications.
+Follow up.
+
+=================================================
+SKILL STACK FOR 10 LPA ROLE
+=================================================
+
+MANDATORY:
+----------
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- SQL
+- Statistics basics
+- Model evaluation
+
+BONUS (BOOST SALARY):
+---------------------
+- Deployment (Streamlit/API)
+- ML pipeline
+- Basic MLOps
+- Feature engineering clarity
+
+=================================================
+WHAT ACTUALLY DECIDES 10 LPA?
+=================================================
+
+1. Can you explain ML clearly?
+2. Can you write clean SQL?
+3. Can you think logically?
+4. Can you solve real problem?
+5. Do you communicate confidently?
+
+That’s it.
+
+=================================================
+COMMON MISTAKES THAT BLOCK 10 LPA
+=================================================
+
+- Learning too many topics
+- Weak fundamentals
+- No real internship
+- Copy-paste projects
+- Poor communication
+
+=================================================
+YOUR PERSONAL EXECUTION SYSTEM
+=================================================
+
+Daily:
+------
+- 30–60 min coding
+- 15 min revision
+
+Weekly:
+-------
+- Improve one project
+- Solve 5 SQL problems
+- Practice explaining one concept
+
+Monthly:
+--------
+- Add one GitHub improvement
+- Apply to internships
+- Mock interview practice
+
+=================================================
+REALITY CHECK
+=================================================
+
+You do NOT need:
+- PhD-level math
+- 10 deep learning projects
+- Fancy certifications
+
+You DO need:
+- Depth
+- Clarity
+- Consistency
+- Confidence
+
+=================================================
+10 LPA CONFIDENCE FORMULA
+=================================================
+
+Strong Fundamentals
++ Internship Experience
++ 3 Strong Projects
++ Clear Communication
+= 8–12 LPA Role
+
+=================================================
+FINAL MESSAGE
+=================================================
+
+You are not late.
+You are not behind.
+
+If you execute this plan calmly,
+10 LPA by 2026 is realistic.
+
+Not guaranteed.
+But realistic.
+
+Consistency from today decides it.
+
+=================================================
+END OF learn_34.txt
+=================================================
