@@ -1,0 +1,222 @@
+learn_37.txt
+PERSONALIZED WEEKLY EXECUTION PLANNER (OM VERSION)
+===================================================
+
+GOAL:
+-----
+10 LPA by 2026
+Strong ML profile
+Internship-ready by 2025–26
+
+Rule:
+-----
+3 focused hours daily > 8 distracted hours
+
+=================================================
+WEEK STRUCTURE OVERVIEW
+=================================================
+
+Mon–Fri:
+--------
+- College + Light ML
+
+Saturday:
+---------
+- Deep ML + Project Work
+
+Sunday:
+-------
+- Revision + Strategy + Reset
+
+=================================================
+DAILY TIME STRUCTURE (REALISTIC)
+=================================================
+
+On Busy College Day:
+--------------------
+45–60 minutes total
+
+On Light Day:
+-------------
+90 minutes
+
+Weekend:
+--------
+2–3 hours max (focused)
+
+=================================================
+MONDAY (PYTHON + LOGIC)
+=================================================
+
+45 minutes:
+-----------
+- 1 Python problem
+- 1 small logic problem
+- Revise list/dict concepts
+
+Goal:
+-----
+Stay sharp in basics.
+
+=================================================
+TUESDAY (SQL DAY)
+=================================================
+
+45 minutes:
+-----------
+- 3 SQL queries
+- Practice JOIN
+- One aggregation problem
+
+Goal:
+-----
+Become SQL comfortable.
+
+=================================================
+WEDNESDAY (ML THEORY DAY)
+=================================================
+
+60 minutes:
+-----------
+- One ML concept deeply
+- Example:
+  - Train-test split
+  - Overfitting
+  - Ridge vs Lasso
+  - Bias–Variance
+
+Explain aloud for 5 minutes.
+
+Goal:
+-----
+Concept clarity.
+
+=================================================
+THURSDAY (PROJECT IMPROVEMENT)
+=================================================
+
+60–90 minutes:
+--------------
+- Improve one project
+- Add feature
+- Refactor code
+- Update README
+
+Goal:
+-----
+Make project industry-ready.
+
+=================================================
+FRIDAY (MODEL PRACTICE)
+=================================================
+
+60 minutes:
+-----------
+- Load dataset
+- Train 2 models
+- Compare performance
+
+Goal:
+-----
+Hands-on ML flow.
+
+=================================================
+SATURDAY (DEEP WORK DAY)
+=================================================
+
+2–3 hours:
+----------
+- Build or improve main project
+- Add deployment (Streamlit/API)
+- Try hyperparameter tuning
+- Fix bugs
+
+This is your career-building day.
+
+=================================================
+SUNDAY (RESET + STRATEGY)
+=================================================
+
+1–2 hours:
+----------
+- Revise learn_22.txt
+- Revise weak area
+- Plan next week
+- Apply to internships (if ready)
+
+No heavy learning.
+Only reinforcement.
+
+=================================================
+MONTHLY TARGET
+=================================================
+
+Month 1:
+--------
+- 1 polished project
+
+Month 2:
+--------
+- Strong SQL
+- Internship applications begin
+
+Month 3:
+--------
+- Deployment knowledge
+- Mock interviews
+
+=================================================
+DISTRACTION RULES
+=================================================
+
+- No reels before study
+- Phone away during study
+- Timer: 25 min focus block
+
+=================================================
+ENERGY RULES
+=================================================
+
+- Sleep minimum 6.5–7 hrs
+- Light exercise 3x week
+- Reduce junk food
+
+Low energy = low discipline.
+
+=================================================
+REALISTIC EXPECTATION
+=================================================
+
+You will miss some days.
+That’s fine.
+
+But never miss 2 days in a row.
+
+Consistency > Perfection.
+
+=================================================
+1-YEAR RESULT IF FOLLOWED
+=================================================
+
+- 3 strong projects
+- SQL confident
+- ML clear
+- Internship secured
+- Interview-ready
+
+=================================================
+FINAL MESSAGE
+=================================================
+
+You don’t need extreme hustle.
+You need steady execution.
+
+Small daily steps.
+No drama.
+No panic.
+
+Just build.
+
+=================================================
+END OF learn_37.txt
+=================================================
